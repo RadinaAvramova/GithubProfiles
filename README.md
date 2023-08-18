@@ -1,2 +1,1 @@
-# Github-Profiles
-Github Profiles
+# Github Profiles
